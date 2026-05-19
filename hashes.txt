@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Desi Phantom
+
+This log tracks the cryptographic history and versioning for the song **Desi Phantom** (desi-phantom).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T18:51:53.008127 | `v1` | `42c24d407f5df5fb84558c2c1ca2bafb29f7e9d62ff5318f9ae7805879dd8630` | `73025f7ab57a24691e077ead65db491c72febecb0a44ecbd8b647c040b9f45da` | `2026-05-19_desi-phantom-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
