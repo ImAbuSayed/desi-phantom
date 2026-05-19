@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/desi-phantom/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Desi Phantom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desi-phantom/) |
+| **Get License** | [Secure Licensing Rights for Desi Phantom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desi-phantom/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Hanere di is chadar ch crazy mind bolda,
+> Nain tere takk ke main deep secrets kholda,
+> Hawaavan de is rukh te high fever vajda,
+> Teri yadaan di agg ch pure magic labhda.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
